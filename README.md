@@ -1,34 +1,21 @@
-🚀 Hi there! I'm [TT], a passionate Software Test Engineer
+### 🚀 嗨，，一名测试工程师
 
-🔍 Specializing in:
-  Automated Testing: Designing and implementing automated test suites to ensure software reliability.
-  Quality Assurance: Rigorous testing methodologies to guarantee optimal user experience.
-  Performance Testing: Identifying bottlenecks and optimizing system performance.
-🌟 Current Projects:
-  
-  Web & Mobile App Testing: Developing automated scripts for cross-platform applications.
-  CI/CD Pipelines: Streamlining deployment processes with Jenkins and GitLab CI.
-📚 Currently Learning:
+### 🔭 **我的专长**
+- **自动化测试**：构建和维护自动化测试框架，提高测试效率和软件可靠性。
+- **手动测试**：执行详尽的手动测试，确保产品符合用户需求。
+- **性能测试**：通过性能测试揭示系统瓶颈，优化性能。
 
-  Advanced Test Frameworks: Mastering Selenium, Appium, and JMeter.
-  Cloud-Based Testing: Leveraging AWS and Azure for scalable test environments.
-🔗 Open for Collaboration on:
+### 🌱 **我正在学习**
+- **最新测试工具**：掌握最新的自动化测试工具和技术。
+- **测试策略**：学习并实践先进的测试方法和策略。
 
-  Open Source Projects: Seeking opportunities to contribute to projects focusing on testing tools and methodologies.
-  Innovative Testing Solutions: Interested in projects that push the boundaries of software testing.
-💬 Let's Talk About:
+### 👯 **合作与交流**
+- **开源项目**：积极参与开源项目，特别是自动化测试相关的。
+- **技术分享**：愿意分享测试经验，交流最佳实践。
 
-  Best practices in software testing.
-  Strategies for integrating automated tests in Agile environments.
-  The future of testing in the era of AI and machine learning.
-📫 Get in Touch:
+### 🤔 **寻求帮助**
+- **测试自动化**：探索更高效的自动化测试解决方案。
+- **性能优化**：寻找提升应用性能的方法。
 
-🌐 Check Out My Work:
-
-
-👨‍💻 Pronouns:
-
-  He/His
-⚡ Fun Fact:
-
-  I once automated a complex UI testing scenario that reduced the execution time by 75%!
+### ⚡ **有趣的事实**
+- 我曾成功将一个项目的测试周期缩短了50%，通过引入自动化测试。
