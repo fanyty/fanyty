@@ -1,0 +1,20 @@
+body: (code: 0, msg: , resp: config: {
+                                                                                                      id: 1
+                                                                                                      name: {en : Send gifts to anyone} 
+                                                                                                      name: {id : Kirim Gift kepada siapa pun} 
+                                                                                                      targetNum: 1
+                                                                                                      routeUrl: everysing://?page=main&tab=room&subTab=recommend
+                                                                                                      status: INCOMPLETE
+                                                                                                      rewardPack: {
+                                                                                                        id: 28
+                                                                                                        item: {
+                                                                                                          goodsType: RESOURCE_ACTIVE_EXP
+                                                                                                          goodsImg: https://static.everysing.net/other/fe6469f5-0ff2-4a49-b383-20d3e010bf07.png
+                                                                                                          num: 20
+                                                                                                          durationType: NEVER_EXPIRES
+                                                                                                        }
+                                                                                                      }
+                                                                                                      missionDate: 2024-05-13
+                                                                                                      createTime: 1715566926225
+                                                                                                      expireTime: 1715619599999
+                                                                                                    }

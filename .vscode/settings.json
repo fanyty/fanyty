@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./myproject/appium_auto_test/v1.0.0"
+    ]
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simulation Test</title>
+</head>
+<body>
+    <h1>Simulation Results</h1>
+    <button onclick="runSimulation()">Run Simulation</button>
+    <pre id="results"></pre>
+    <script>
+        function runSimulation() {
+            fetch('/simulate')
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('results').textContent = JSON.stringify(data, null, 2);
+                });
+        }
+    </script>
+</body>
+</html>
