@@ -1,7 +1,7 @@
 import redis
 
 def connect_redis():
-    r = redis.StrictRedis(host='r-t4n5bd3w855krqhhsipd.redis.singapore.rds.aliyuncs.com',port="6379",password='OAhh8TMGwiMX',decode_responses=True)
+    r = redis.StrictRedis(host='地址',port="6379",password='密码',decode_responses=True)
     try:
         r.ping()
         print("Connected to Redis successfully!")
