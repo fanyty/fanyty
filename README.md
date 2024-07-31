@@ -4,26 +4,47 @@ This is a web automation testing framework using Selenium and Pytest.
 
 ## Project Structure
 web_automation_framework/
+
 ├── config/
+
 │ ├── init.py
+
 │ ├── config.py
+
 │ └── logger.py
+
 ├── tests/
+
 │ ├── init.py
-│ ├── test_group.py
+
+│ └── test_group.py
+
 ├── pages/
+
 │ ├── init.py
+
 │ ├── login_page.py
+
 │ ├── group_page.py
+
 │ └── base_page.py
+
 ├── utils/
-│ ├── init.py
+
+│ └── init.py
+
 ├── reports/
-│ ├── init.py
+
+│ └── init.py
+
 ├── requirements.txt
+
 ├── conftest.py
+
 ├── pytest.ini
+
 └── README.md
+
 
 ## Setup
 
