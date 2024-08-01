@@ -60,7 +60,7 @@ web_automation_framework/
 1. **Clone the repository**:
 
     ```sh
-    git clone https://github.com/yourusername/web_automation_framework.git
+    git clone https://github.com/fanyty/fanyty/web_automation_framework.git
     cd web_automation_framework
     ```
 
